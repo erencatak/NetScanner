@@ -21,7 +21,6 @@ pip install PyQt5 python-nmap
 python testqt1.py
 ```
 
-(Not: sadece kendi ağında dene, başka birinin ağını taramak izinsiz yapılırsa sorun olur.)
 
 ## Bugün tekrar çalıştırdım
 
